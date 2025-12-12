@@ -1,0 +1,9 @@
+ultralytics
+opencv-python
+pygame
+sounddevice
+numpy
+scipy
+torch
+wheel
+flask
