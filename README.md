@@ -118,5 +118,7 @@ For detailed information, see the documentation files in the `docs/` folder:
 - You can run the application from the root directory using `run.py` or `run_demo.py`
 
 ---
+## 📽️ Demo View (visit this link)
+https://drive.google.com/file/d/1u5NHpRR5KQDwDlBud75yVdnStq_ftbYl/view?usp=sharing
 
 For more details, see **docs/README.md** or **docs/START_HERE.md**
